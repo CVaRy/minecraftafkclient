@@ -1,0 +1,6 @@
+# Usage examples:
+# /tell <mybot> connect Server1
+# /connect Server2
+
+Server1,x.x.x.x.x
+Server2,x.x.x.x.x

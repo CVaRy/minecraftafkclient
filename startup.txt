@@ -1,0 +1,2 @@
+﻿send /login password
+send /warp xxx

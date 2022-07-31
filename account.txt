@@ -1,0 +1,6 @@
+# Usage examples:
+# /tell <mybot> reco Player2
+# /connect <serverip> Player1
+# Player1.nick, - (no password)
+Player1,nick,thepassword
+Player2,TestBot,-
